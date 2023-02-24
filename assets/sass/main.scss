@@ -327,7 +327,7 @@
 			@include vendor('flex-shrink', '0');
 			margin: ($border * 0.5);
 			height: 16em;
-			box-shadow: 0 0 0 $border #03fa34;
+			box-shadow: 0 0 0 $border #ffffff00;
 
 			&.span-1 {
 				width: $width;
