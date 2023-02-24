@@ -371,7 +371,7 @@ input, select, textarea {
 		}
 
 			#main .items > :last-child {
-				border-right: solid 10px #03fa34;
+				border-right: solid 10px #f7f7f700;
 			}
 
 		#main .item {
