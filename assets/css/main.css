@@ -543,6 +543,12 @@ input, select, textarea {
 				#main .item.span-3 {
 					width: 34em;
 				}
+				#main .item.container {
+					width: 25.5em;
+					display: flex;
+					align-items: center;
+					justify-self: center;
+				}
 
 		}
 
