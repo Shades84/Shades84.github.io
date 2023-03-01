@@ -430,6 +430,12 @@ input, select, textarea {
 					margin: 0.5em 0 0 0;
 					opacity: 0.65;
 				}
+				#main .item.intro container {
+					width: 25.5em;
+					display: flex;
+					align-items: center;
+					justify-self: center;
+				}
 
 			#main .item.thumb {
 				display: block;
@@ -542,12 +548,6 @@ input, select, textarea {
 
 				#main .item.span-3 {
 					width: 34em;
-				}
-				#main .item.container {
-					width: 25.5em;
-					display: flex;
-					align-items: center;
-					justify-self: center;
 				}
 
 		}
